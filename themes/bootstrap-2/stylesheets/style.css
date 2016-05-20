@@ -77,3 +77,6 @@ body {
 #sidebar {
   padding-top: 24px;
 }
+h3.sidebar_title {
+    font-family: monospace;
+}

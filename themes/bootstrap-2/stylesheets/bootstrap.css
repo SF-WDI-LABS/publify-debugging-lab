@@ -1208,6 +1208,7 @@ ul,
 ol {
   margin-top: 0;
   margin-bottom: 12.5px;
+  list-style-type: circle;
 }
 ul ul,
 ol ul,
